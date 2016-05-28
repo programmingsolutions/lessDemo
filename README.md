@@ -1,5 +1,2 @@
 # lessDemo
-This is the demo for less on git hub.
-Practicing again here.
-testing again here.
-again testing here.
+This is the final test via sandeep kamara for giithub.
